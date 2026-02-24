@@ -1,6 +1,6 @@
 # Unreal Engine Port — Wall Merge (A Link Between Worlds)
 
-This project is an **Unreal Engine 5 port** of the wall-merge mechanic recreated by **Mix and Jam** in their tutorial based on **The Legend of Zelda: A Link Between Worlds**.
+This blueprint project is an **Unreal Engine 5 port** of the wall-merge mechanic recreated by **Mix and Jam** in their tutorial based on **The Legend of Zelda: A Link Between Worlds**.
 
 It adapts the original Unity implementation to Unreal Engine while preserving the core behavior: allowing the player to **merge into walls and traverse them as a flat, 2D-constrained form**.
 
